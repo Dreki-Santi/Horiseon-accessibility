@@ -1,4 +1,4 @@
-# Horiseon-accessibility
+# Horiseon Accessibility Challenge 
 
 ## Access Page
 <a target="_live-page" href="https://dreki-santi.github.io/Horiseon-accessibility/">https://dreki-santi.github.io/Horiseon-accessibility/</a>
@@ -13,6 +13,3 @@ CSS
 ## Technology
 Code Edited with:
 Visual Studio Code
-
-#### Misc.
-206846f5036e405330b8cecdf1829a6aa3d86ced
